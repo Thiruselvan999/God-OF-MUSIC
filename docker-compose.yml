@@ -19,3 +19,4 @@ services:
       SUDO_USERS:
       LOG_SESSION:
       UPSTREAM_BRANCH:
+      UPSTREAM_REPO:
