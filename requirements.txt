@@ -6,7 +6,7 @@ pillow
 pyrogram==1.4.12
 hachoir
 lyricsgenius
-py-tgcalls==0.8.6
+pytgcalls==3.0.0.dev21
 wget
 python-dotenv
 youtube-search-python
@@ -22,4 +22,4 @@ pyyaml==5.3.1
 tgcrypto
 gitpython
 heroku3
-nodejs
+nodejs15.0.0+
